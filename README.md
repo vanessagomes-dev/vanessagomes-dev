@@ -16,7 +16,7 @@
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
 
-Estudante de tecnologia em constante evolução no universo do front-end, apaixonada por musculação e adepta de uma vida rotineira em busca do equilíbrio entre códigos e pesos.
+ Graduada em Analise e Desenvolvimento de Sistemas, aprimorando meus conhecimentos em Desenvolvimento Web Front-end.
 
 ## Entre em contato
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
